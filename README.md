@@ -1,23 +1,38 @@
-👋 Hello, I’m Vishal Soni
-As a senior at the Indian Institute of Information Technology, Bhagalpur, I’m deeply passionate about transforming complex challenges into real-world solutions through AI and computational science. My journey has led me to work with some of the most prestigious institutions in tech and research—Swiss AI Lab IDSIA, NUS Singapore, IIT Roorkee, IIM Bangalore, and ISRO—where I've contributed to advancing AI, machine learning, and data analytics.
+# 👋 Hey there, I’m Vishal Soni!
 
-🚀 A Journey of Innovation and Research
-🏆 ThinkSwiss Research Scholar | Asia Pacific 2024
-Recognized by the Government of Switzerland, this scholarship honors my contributions to AI and emerging technologies.
+I’m a senior at the Indian Institute of Information Technology, Bhagalpur, driven by a passion for leveraging AI and computational science to solve some of the world’s most complex challenges. My journey spans top research hubs and institutions—from Swiss AI Lab IDSIA and NUS Singapore to IIT Roorkee, IIM Bangalore, and ISRO—where I've had the privilege of contributing to impactful advancements in AI, machine learning, and data analytics.
 
-💡 Key Research Contributions
+---
 
-Martian Exploration with ISRO
-Presented at the URSI Regional Conference on Radio Science (RCRS), my work on estimating aerosol optical depth on Mars contributes to efficient planning for future Martian missions.
-AI-Driven Energy Optimization
-At the European Conference on Renewable Energy Systems (ECRES 2024), I showcased an AI-based drive cycle model I developed to conserve energy—one of my proudest projects.
-COVID-19 Vaccine Analytics
-My research at IIT Roorkee focused on reducing vaccine side effects using advanced data analytics, presented at the international SocPros 2023 conference.
-🧠 Pioneering Generative AI & Reinforcement Learning
-At Swiss AI Lab IDSIA and NUS Singapore, I worked on optimizing models like AutoGPT, BabyAGI, and GPT-4, strengthening my skills in generative AI, dynamic model optimization, and reinforcement learning.
+### 🚀 Where Curiosity Meets Innovation
 
-💼 Affiliations and Professional Dedication
-IEEE Member | Soft Computing Research Society (SCRS) Member
-Dedicated to using technology for societal benefit, I’m always eager to collaborate and innovate with a purpose.
-💬 Connect and Collaborate!
-I’m passionate about pushing the boundaries of AI for impactful solutions. Let’s connect and explore new ideas—feel free to reach out!
+- 🏆 **ThinkSwiss Research Scholar 2024**  
+   Awarded by the Government of Switzerland, this prestigious scholarship highlights my dedication to pioneering research and emerging technologies in AI.
+
+- 💡 **My Work in Action**  
+   - **Mapping Mars with ISRO**  
+     My research estimating aerosol optical depth on Mars, presented at the URSI Regional Conference on Radio Science (RCRS), is paving the way for efficient mission planning and exploration of the Martian surface.
+   - **Energy Conservation through AI**  
+     At the European Conference on Renewable Energy Systems (ECRES 2024), I presented my AI-based drive cycle model—a breakthrough in optimizing energy conservation in renewable systems.
+   - **COVID-19 Vaccine Safety**  
+     During my internship at IIT Roorkee, I used advanced analytics to minimize vaccine side effects, contributing to a safer rollout of COVID-19 vaccines. This research was presented at the international SocPros 2023 conference.
+
+- 🧠 **Advancing Generative AI and Reinforcement Learning**  
+   At Swiss AI Lab IDSIA and NUS Singapore, I worked on optimizing models like AutoGPT, BabyAGI, and GPT-4, focusing on generative AI, dynamic model optimization, and reinforcement learning. These projects refined my technical skills and nurtured a research-oriented mindset.
+
+---
+
+### 💼 Affiliations and Purpose-Driven Research
+- **IEEE Member** | **Soft Computing Research Society (SCRS) Member**  
+   As an active member of IEEE and SCRS, I’m committed to advancing technology for societal impact, focusing on solutions that drive positive change.
+
+---
+
+### 💬 Let’s Connect!
+I’m always open to collaboration and discussions on AI-driven innovation. Feel free to explore my work and reach out—let’s make a difference together!
+
+---
+
+> “I believe technology’s true purpose is to solve meaningful problems, and I’m excited to push the boundaries of AI to make an impact.”
+
+---
