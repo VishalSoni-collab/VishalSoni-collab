@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Vishal Soni! 
 
-I’m a senior at the Indian Institute of Information Technology, Bhagalpur, driven by a passion for leveraging AI and computational science to solve some of the world’s most complex challenges. My journey spans top research hubs and institutions—from Swiss AI Lab IDSIA and NUS Singapore to IIT Roorkee, IIM Bangalore, and ISRO—where I've had the privilege of contributing to impactful advancements in AI, machine learning, and data analytics. https://itsvishalsoni.vercel.app/
+I’m a senior at the Indian Institute of Information Technology, Bhagalpur, driven by a passion for leveraging AI and computational science to solve some of the world’s most complex challenges. My journey spans top research hubs and institutions—from Swiss AI Lab IDSIA and NUS Singapore to IIT Roorkee, IIM Bangalore, and ISRO—where I've had the privilege of contributing to impactful advancements in AI, machine learning, and data analytics.You can find more about me at [my portfolio](https://itsvishalsoni.vercel.app/).
 
 ---
 
