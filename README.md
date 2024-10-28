@@ -7,7 +7,7 @@ I’m a senior at the Indian Institute of Information Technology, Bhagalpur, dri
 ### 🚀 Where Curiosity Meets Innovation
 
 - 🏆 **ThinkSwiss Research Scholar 2024**  
-   Awarded by the Government of Switzerland, this prestigious scholarship highlights my dedication to pioneering research and emerging technologies in AI.
+   Awarded by the Government of Switzerland, this prestigious scholarship highlights my dedication to pioneering research and emerging technologies in AI. https://swissnex.org/india/thinkswiss/
 
 - 💡 **My Work in Action**  
    - **Mapping Mars with ISRO**  
@@ -18,7 +18,7 @@ I’m a senior at the Indian Institute of Information Technology, Bhagalpur, dri
      During my internship at IIT Roorkee, I used advanced analytics to minimize vaccine side effects, contributing to a safer rollout of COVID-19 vaccines. This research was presented at the international SocPros 2023 conference.
 
 - 🧠 **Advancing Generative AI and Reinforcement Learning**  
-   At Swiss AI Lab IDSIA and NUS Singapore, I worked on optimizing models like AutoGPT, BabyAGI, and GPT-4, focusing on generative AI, dynamic model optimization, and reinforcement learning. These projects refined my technical skills and nurtured a research-oriented mindset.
+   At Swiss AI Lab IDSIA currently studying about foundation models integrating RL for robotics and at NUS Singapore, I worked on optimizing models like AutoGPT, BabyAGI, and GPT-4, focusing on generative AI, dynamic model optimization, and reinforcement learning. These projects refined my technical skills and nurtured a research-oriented mindset.
 
 ---
 
