@@ -15,7 +15,7 @@ I’m a senior at the Indian Institute of Information Technology, Bhagalpur, dri
    - **Energy Conservation through AI**  
      At the European Conference on Renewable Energy Systems (ECRES 2024), I presented my AI-based drive cycle model—a breakthrough in optimizing energy conservation in renewable systems.
    - **COVID-19 Vaccine Safety**  
-     During my internship at IIT Roorkee, I used advanced analytics to minimize vaccine side effects, contributing to a safer rollout of COVID-19 vaccines. This research was presented at the international SocPros 2023 conference.
+     During my internship at IIT Roorkee, I used mchine learning and Genetic algorithm to minimize vaccine side effects, contributing to a safer rollout of COVID-19 vaccines. This research was presented at the international SocPros 2023 conference.
 
 - 🧠 **Advancing Generative AI and Reinforcement Learning**  
    At Swiss AI Lab IDSIA currently studying about foundation models integrating RL for robotics and at NUS Singapore, I worked on optimizing models like AutoGPT, BabyAGI, and GPT-4, focusing on generative AI, dynamic model optimization, and reinforcement learning. These projects refined my technical skills and nurtured a research-oriented mindset.
